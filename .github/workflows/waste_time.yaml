@@ -9,5 +9,5 @@ jobs:
     steps:
       - name: Sleeping Beauty
         run: |
-          sleep 60
+          sleep 50
           exit 1
