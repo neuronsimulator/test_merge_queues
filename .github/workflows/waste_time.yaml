@@ -10,4 +10,3 @@ jobs:
       - name: Sleeping Beauty
         run: |
           sleep 50
-          exit 1
