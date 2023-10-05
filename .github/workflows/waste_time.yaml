@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: Sleeping Beauty
         run: |
-          sleep 50
+          sleep 40
