@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
-a = 1
-b = 2
-c = a + b
-print(c)
+def multiply(first, second):
+    result = first * second
+    return result
+
+if __name__ == '__main__':
+    multiply(8, 9)
