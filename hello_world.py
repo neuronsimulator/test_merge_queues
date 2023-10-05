@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
-print("Hello world!")
-print("Hello again!")
+print("Hello world.")
+print("Hello again.")
